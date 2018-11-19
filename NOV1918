@@ -1,0 +1,691 @@
+#EXTM3U
+#EXTINF:-1,USA HBO Signature
+http://rb-group-server.com:25461/live/444777/777444/3711.m3u8
+#EXTINF:-1,USA HBO FAMILY
+http://rb-group-server.com:25461/live/444777/777444/3709.m3u8
+#EXTINF:-1,USA HBO ZONE
+http://rb-group-server.com:25461/live/444777/777444/3708.m3u8
+#EXTINF:-1,USA A&E
+http://rb-group-server.com:25461/live/444777/777444/3704.m3u8
+#EXTINF:-1,ABC
+http://rb-group-server.com:25461/live/444777/777444/3719.m3u8
+#EXTINF:-1,USA ABC NEWS
+http://rb-group-server.com:25461/live/444777/777444/3720.m3u8
+#EXTINF:-1,USA CBS
+http://rb-group-server.com:25461/live/444777/777444/3721.m3u8
+#EXTINF:-1,USA NBC
+http://rb-group-server.com:25461/live/444777/777444/3724.m3u8
+#EXTINF:-1,USA AFN Movie
+http://rb-group-server.com:25461/live/444777/777444/3696.m3u8
+#EXTINF:-1,USA CineMax
+http://rb-group-server.com:25461/live/444777/777444/3699.m3u8
+#EXTINF:-1,USA Bloomberg
+http://rb-group-server.com:25461/live/444777/777444/3694.m3u8
+#EXTINF:-1,USA Bravo
+http://rb-group-server.com:25461/live/444777/777444/3693.m3u8
+#EXTINF:-1,USA CNBC
+http://rb-group-server.com:25461/live/444777/777444/3722.m3u8
+#EXTINF:-1,USA CW
+http://rb-group-server.com:25461/live/444777/777444/3706.m3u8
+#EXTINF:-1,USA ESPN
+http://rb-group-server.com:25461/live/444777/777444/3692.m3u8
+#EXTINF:-1,USA ESPN 2
+http://rb-group-server.com:25461/live/444777/777444/3691.m3u8
+#EXTINF:-1,USA FOX
+http://rb-group-server.com:25461/live/444777/777444/3718.m3u8
+#EXTINF:-1,USA Fox News
+http://rb-group-server.com:25461/live/444777/777444/3717.m3u8
+#EXTINF:-1,USA FoxSports 1
+http://rb-group-server.com:25461/live/444777/777444/3716.m3u8
+#EXTINF:-1,USA Fox Sports 2 HD
+http://rb-group-server.com:25461/live/444777/777444/3715.m3u8
+#EXTINF:-1,USA FX
+http://rb-group-server.com:25461/live/444777/777444/3697.m3u8
+#EXTINF:-1,USA Hallmark
+http://rb-group-server.com:25461/live/444777/777444/3698.m3u8
+#EXTINF:-1,USA HISTORY
+http://rb-group-server.com:25461/live/444777/777444/3686.m3u8
+#EXTINF:-1,USA MTV Live
+http://rb-group-server.com:25461/live/444777/777444/3687.m3u8
+#EXTINF:-1,USA NBA TV
+http://rb-group-server.com:25461/live/444777/777444/3690.m3u8
+#EXTINF:-1,USA NFL NETWORK
+http://rb-group-server.com:25461/live/444777/777444/3689.m3u8
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://rb-group-server.com:25461/live/444777/777444/3713.m3u8
+#EXTINF:-1,USA STARZ CINEMA
+http://rb-group-server.com:25461/live/444777/777444/3703.m3u8
+#EXTINF:-1,USA STARZ COMEDY
+http://rb-group-server.com:25461/live/444777/777444/3702.m3u8
+#EXTINF:-1,USA NETWORK
+http://rb-group-server.com:25461/live/444777/777444/3705.m3u8
+#EXTINF:-1,USA STARZ ENCORE
+http://rb-group-server.com:25461/live/444777/777444/3701.m3u8
+#EXTINF:-1,USA SYFY
+http://rb-group-server.com:25461/live/444777/777444/3700.m3u8
+#EXTINF:-1,USA WWEHD
+http://rb-group-server.com:25461/live/444777/777444/3695.m3u8
+#EXTINF:-1,CA-TSN1
+http://rb-group-server.com:25461/live/444777/777444/3684.m3u8
+#EXTINF:-1,CA-TSN2
+http://rb-group-server.com:25461/live/444777/777444/3683.m3u8
+#EXTINF:-1,CA-TSN3
+http://rb-group-server.com:25461/live/444777/777444/3682.m3u8
+#EXTINF:-1,CA-TSN4
+http://rb-group-server.com:25461/live/444777/777444/3681.m3u8
+#EXTINF:-1,CA-TSN5
+http://rb-group-server.com:25461/live/444777/777444/3680.m3u8
+#EXTINF:-1,CA-FOX EAST
+http://rb-group-server.com:25461/live/444777/777444/6800.m3u8
+#EXTINF:-1,CA-ABC WEST
+http://rb-group-server.com:25461/live/444777/777444/6790.m3u8
+#EXTINF:-1,CA-AMC
+http://rb-group-server.com:25461/live/444777/777444/6791.m3u8
+#EXTINF:-1,CA-NBC WEST
+http://rb-group-server.com:25461/live/444777/777444/6806.m3u8
+#EXTINF:-1,CA-MSNBC
+http://rb-group-server.com:25461/live/444777/777444/6803.m3u8
+#EXTINF:-1,CA-Animal Planet
+http://rb-group-server.com:25461/live/444777/777444/6792.m3u8
+#EXTINF:-1,CA-HISTORY
+http://rb-group-server.com:25461/live/444777/777444/6801.m3u8
+#EXTINF:-1,CA-Sportsnet One
+http://rb-group-server.com:25461/live/444777/777444/6808.m3u8
+#EXTINF:-1,CA-Sportsnet 360
+http://rb-group-server.com:25461/live/444777/777444/6807.m3u8
+#EXTINF:-1,CA-Sportsnet World
+http://rb-group-server.com:25461/live/444777/777444/6810.m3u8
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/live/444777/777444/6809.m3u8
+
+#EXTINF:-1 tvg-name="US: TBS" tvg-logo="http://logo.ndasat.com/iptv/images/4477_tbs.png" group-title="{BOUQUET_NAME}",US: TBS
+http://212.8.253.47:88/555155895930609/555155895930609/1639
+#EXTINF:-1 tvg-name="US:WWE us" tvg-logo="http://logo.ndasat.com/iptv/images/94391_wwe.jpg" group-title="{BOUQUET_NAME}",US:WWE us
+http://212.8.253.47:88/555155895930609/555155895930609/1657
+#EXTINF:-1 tvg-name="US:Syfy" tvg-logo="http://logo.ndasat.com/iptv/images/3482_syfy.png" group-title="{BOUQUET_NAME}",US:Syfy
+http://212.8.253.47:88/555155895930609/555155895930609/1637
+#EXTINF:-1 tvg-name="US:CNN" tvg-logo="http://logo.ndasat.com/iptv/images/40283_cnn.png" group-title="{BOUQUET_NAME}",US:CNN
+http://212.8.253.47:88/555155895930609/555155895930609/1680
+#EXTINF:-1 tvg-name="US:Espn2" tvg-logo="http://logo.ndasat.com/iptv/images/18253_espn2.jpg" group-title="{BOUQUET_NAME}",US:Espn2
+http://212.8.253.47:88/555155895930609/555155895930609/1672
+#EXTINF:-1 tvg-name="US:Espn" tvg-logo="http://logo.ndasat.com/iptv/images/68152_espn.png" group-title="{BOUQUET_NAME}",US:Espn
+http://212.8.253.47:88/555155895930609/555155895930609/1670
+#EXTINF:-1 tvg-name="US:Fight Sports" tvg-logo="http://logo.ndasat.com/iptv/images/45655_fightsports.png" group-title="{BOUQUET_NAME}",US:Fight Sports
+http://212.8.253.47:88/555155895930609/555155895930609/1669
+#EXTINF:-1 tvg-name="US:Food Network" tvg-logo="http://logo.ndasat.com/iptv/images/80563_foodnetwork.jpg" group-title="{BOUQUET_NAME}",US:Food Network
+http://212.8.253.47:88/555155895930609/555155895930609/1668
+#EXTINF:-1 tvg-name="US:HBO HD" tvg-logo="http://logo.ndasat.com/iptv/images/438_hbo.png" group-title="{BOUQUET_NAME}",US:HBO HD
+http://212.8.253.47:88/555155895930609/555155895930609/1665
+#EXTINF:-1 tvg-name="US: History" tvg-logo="http://logo.ndasat.com/iptv/images/48151_history.png" group-title="{BOUQUET_NAME}",US: History
+http://212.8.253.47:88/555155895930609/555155895930609/1662
+#EXTINF:-1 tvg-name="US:Fox Sports1" tvg-logo="http://logo.ndasat.com/iptv/images/55626_fs1.png" group-title="{BOUQUET_NAME}",US:Fox Sports1
+http://212.8.253.47:88/555155895930609/555155895930609/1615
+#EXTINF:-1 tvg-name="US: NAT-GEO-HD" tvg-logo="" group-title="{BOUQUET_NAME}",US: NAT-GEO-HD
+http://212.8.253.47:88/555155895930609/555155895930609/1633
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/1155_romania-flag-small.jpg" group-title="{BOUQUET_NAME}",Disney Junior
+http://212.8.253.47:88/555155895930609/555155895930609/1854
+#EXTINF:-1 tvg-name="US:NBA TV" tvg-logo="http://logo.ndasat.com/iptv/images/8505_nbatv.png" group-title="{BOUQUET_NAME}",US:NBA TV
+http://212.8.253.47:88/555155895930609/555155895930609/1631
+#EXTINF:-1 tvg-name="US:NBCSN HD" tvg-logo="" group-title="{BOUQUET_NAME}",US:NBCSN HD
+http://212.8.253.47:88/555155895930609/555155895930609/1630
+#EXTINF:-1 tvg-name="US: Fox Sports2" tvg-logo="http://logo.ndasat.com/iptv/images/62037_fs2.png" group-title="{BOUQUET_NAME}",US: Fox Sports2
+http://212.8.253.47:88/555155895930609/555155895930609/1648
+#EXTINF:-1 tvg-name="US:Nat-Geo-Wild" tvg-logo="" group-title="{BOUQUET_NAME}",US:Nat-Geo-Wild
+http://212.8.253.47:88/555155895930609/555155895930609/1632
+#EXTINF:-1 tvg-name="US:Abc News" tvg-logo="http://logo.ndasat.com/iptv/images/81881_abcnews.jpg" group-title="{BOUQUET_NAME}",US:Abc News
+http://212.8.253.47:88/555155895930609/555155895930609/1618
+#EXTINF:-1 tvg-name="US: AMC" tvg-logo="http://logo.ndasat.com/iptv/images/24638_amc.jpg" group-title="{BOUQUET_NAME}",US: AMC
+http://212.8.253.47:88/555155895930609/555155895930609/1623
+
+#EXTINF:-1,USA ABC NEWS
+http://rb-group-server.com:25461/12341234/12341234/3720
+#EXTINF:-1,USA CBS
+http://rb-group-server.com:25461/12341234/12341234/3721
+#EXTINF:-1,USA NBC
+http://rb-group-server.com:25461/12341234/12341234/3724
+#EXTINF:-1,USA AFN Movie
+http://rb-group-server.com:25461/12341234/12341234/3696
+#EXTINF:-1,USA CineMax
+http://rb-group-server.com:25461/12341234/12341234/3699
+#EXTINF:-1,USA Bloomberg
+http://rb-group-server.com:25461/12341234/12341234/3694
+#EXTINF:-1,USA Bravo
+http://rb-group-server.com:25461/12341234/12341234/3693
+#EXTINF:-1,USA CNBC
+http://rb-group-server.com:25461/12341234/12341234/3722
+#EXTINF:-1,USA CW
+http://rb-group-server.com:25461/12341234/12341234/3706
+#EXTINF:-1,USA ESPN
+http://rb-group-server.com:25461/12341234/12341234/3692
+#EXTINF:-1,USA ESPN 2
+http://rb-group-server.com:25461/12341234/12341234/3691
+#EXTINF:-1,USA FOX
+http://rb-group-server.com:25461/12341234/12341234/3718
+#EXTINF:-1,USA Fox News
+http://rb-group-server.com:25461/12341234/12341234/3717
+#EXTINF:-1,USA FoxSports 1
+http://rb-group-server.com:25461/12341234/12341234/3716
+#EXTINF:-1,USA Fox Sports 2 HD
+http://rb-group-server.com:25461/12341234/12341234/3715
+#EXTINF:-1,USA FX
+http://rb-group-server.com:25461/12341234/12341234/3697
+#EXTINF:-1,USA Hallmark
+http://rb-group-server.com:25461/12341234/12341234/3698
+#EXTINF:-1,USA HISTORY
+http://rb-group-server.com:25461/12341234/12341234/3686
+#EXTINF:-1,USA MTV Live
+http://rb-group-server.com:25461/12341234/12341234/3687
+#EXTINF:-1,USA NBA TV
+http://rb-group-server.com:25461/12341234/12341234/3690
+#EXTINF:-1,USA NFL NETWORK
+http://rb-group-server.com:25461/12341234/12341234/3689
+#EXTINF:-1,USA NHL NETWORK
+http://rb-group-server.com:25461/12341234/12341234/3688
+#EXTINF:-1,USA Showtime
+http://rb-group-server.com:25461/12341234/12341234/3714
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://rb-group-server.com:25461/12341234/12341234/3713
+#EXTINF:-1,USA STARZ CINEMA
+http://rb-group-server.com:25461/12341234/12341234/3703
+#EXTINF:-1,USA STARZ COMEDY
+http://rb-group-server.com:25461/12341234/12341234/3702
+#EXTINF:-1,USA NETWORK
+http://rb-group-server.com:25461/12341234/12341234/3705
+#EXTINF:-1,USA STARZ ENCORE
+http://rb-group-server.com:25461/12341234/12341234/3701
+#EXTINF:-1,USA SYFY
+http://rb-group-server.com:25461/12341234/12341234/3700
+#EXTINF:-1,USA WWEHD
+http://rb-group-server.com:25461/12341234/12341234/3695
+#EXTINF:-1,USA HBO Signature
+http://rb-group-server.com:25461/12341234/12341234/3711
+#EXTINF:-1,USA HBO
+http://rb-group-server.com:25461/12341234/12341234/3710
+#EXTINF:-1,USA HBO FAMILY
+http://rb-group-server.com:25461/12341234/12341234/3709
+#EXTINF:-1,USA HBO ZONE
+http://rb-group-server.com:25461/12341234/12341234/3708
+#EXTINF:-1,USA A&E
+http://rb-group-server.com:25461/12341234/12341234/3704
+#EXTINF:-1,ABC
+http://rb-group-server.com:25461/12341234/12341234/3719
+#EXTINF:-1,NBCSN
+http://rb-group-server.com:25461/12341234/12341234/3723
+#EXTINF:-1,CA-TSN1
+http://rb-group-server.com:25461/12341234/12341234/3684
+#EXTINF:-1,CA-TSN2
+http://rb-group-server.com:25461/12341234/12341234/3683
+#EXTINF:-1,CA-TSN3
+http://rb-group-server.com:25461/12341234/12341234/3682
+#EXTINF:-1,CA-TSN4
+http://rb-group-server.com:25461/12341234/12341234/3681
+#EXTINF:-1,CA-TSN5
+http://rb-group-server.com:25461/12341234/12341234/3680
+#EXTINF:-1,CA-FOX EAST
+http://rb-group-server.com:25461/12341234/12341234/6800
+#EXTINF:-1,CA-ABC WEST
+http://rb-group-server.com:25461/12341234/12341234/6790
+#EXTINF:-1,CA-AMC
+http://rb-group-server.com:25461/12341234/12341234/6791
+#EXTINF:-1,CA-NBC WEST
+http://rb-group-server.com:25461/12341234/12341234/6806
+#EXTINF:-1,CA-MSNBC
+http://rb-group-server.com:25461/12341234/12341234/6803
+#EXTINF:-1,CA-Animal Planet
+http://rb-group-server.com:25461/12341234/12341234/6792
+#EXTINF:-1,CA-HISTORY
+http://rb-group-server.com:25461/12341234/12341234/6801
+#EXTINF:-1,CA-Sportsnet One
+http://rb-group-server.com:25461/12341234/12341234/6808
+#EXTINF:-1,CA-Sportsnet 360
+http://rb-group-server.com:25461/12341234/12341234/6807
+#EXTINF:-1,CA-Sportsnet World
+http://rb-group-server.com:25461/12341234/12341234/6810
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/12341234/12341234/6809
+#EXTINF:-1,BBC One
+http://rb-group-server.com:25461/12341234/12341234/3785
+#EXTINF:-1,BBC Two
+http://rb-group-server.com:25461/12341234/12341234/3783
+#EXTINF:-1,BBC Three
+http://rb-group-server.com:25461/12341234/12341234/3782
+#EXTINF:-1,BBC Four HD
+http://rb-group-server.com:25461/12341234/12341234/6034
+#EXTINF:-1,BBC World News
+http://rb-group-server.com:25461/12341234/12341234/3772
+#EXTINF:-1,BBC News UK
+http://rb-group-server.com:25461/12341234/12341234/3771
+#EXTINF:-1,BBC Alba
+http://rb-group-server.com:25461/12341234/12341234/6035
+#EXTINF:-1,Sky News
+http://rb-group-server.com:25461/12341234/12341234/4830
+#EXTINF:-1,CNBC
+http://rb-group-server.com:25461/12341234/12341234/3761
+#EXTINF:-1,CBBC HD
+http://rb-group-server.com:25461/12341234/12341234/3781
+#EXTINF:-1,Euronews UK
+http://rb-group-server.com:25461/12341234/12341234/3767
+#EXTINF:-1,ITV HD
+http://rb-group-server.com:25461/12341234/12341234/6032
+#EXTINF:-1,ITV 2
+http://rb-group-server.com:25461/12341234/12341234/6033
+#EXTINF:-1,ITV 3
+http://rb-group-server.com:25461/12341234/12341234/3780
+#EXTINF:-1,ITV 4
+http://rb-group-server.com:25461/12341234/12341234/3779
+#EXTINF:-1,ITV BE
+http://rb-group-server.com:25461/12341234/12341234/3778
+#EXTINF:-1,ITV Encore
+http://rb-group-server.com:25461/12341234/12341234/3777
+#EXTINF:-1,Channel 4
+http://rb-group-server.com:25461/12341234/12341234/3776
+#EXTINF:-1,Channel 5
+http://rb-group-server.com:25461/12341234/12341234/3775
+#EXTINF:-1,Channel 5 +1
+http://rb-group-server.com:25461/12341234/12341234/3760
+#EXTINF:-1,More 4
+http://rb-group-server.com:25461/12341234/12341234/3774
+#EXTINF:-1,E4
+http://rb-group-server.com:25461/12341234/12341234/3773
+#EXTINF:-1,RTE ONE HD
+http://rb-group-server.com:25461/12341234/12341234/3759
+#EXTINF:-1,Bloomberg
+http://rb-group-server.com:25461/12341234/12341234/3763
+#EXTINF:-1,FOX News
+http://rb-group-server.com:25461/12341234/12341234/3765
+#EXTINF:-1,CNN International
+http://rb-group-server.com:25461/12341234/12341234/3769
+#EXTINF:-1,CGTN News
+http://rb-group-server.com:25461/12341234/12341234/3764
+#EXTINF:-1,Gold
+http://rb-group-server.com:25461/12341234/12341234/4818
+#EXTINF:-1,Good Food
+http://rb-group-server.com:25461/12341234/12341234/4842
+#EXTINF:-1,Food Network
+http://rb-group-server.com:25461/12341234/12341234/3736
+#EXTINF:-1,TCM.
+http://rb-group-server.com:25461/12341234/12341234/3745
+#EXTINF:-1,CBS.Action
+http://rb-group-server.com:25461/12341234/12341234/3743
+#EXTINF:-1,CBS Drama
+http://rb-group-server.com:25461/12341234/12341234/3742
+#EXTINF:-1,CBS Reality
+http://rb-group-server.com:25461/12341234/12341234/4862
+#EXTINF:-1,Film4
+http://rb-group-server.com:25461/12341234/12341234/3744
+#EXTINF:-1,Comedy Central Extra
+http://rb-group-server.com:25461/12341234/12341234/4841
+#EXTINF:-1,Crime & Investigation
+http://rb-group-server.com:25461/12341234/12341234/4810
+#EXTINF:-1,Fox
+http://rb-group-server.com:25461/12341234/12341234/4838
+#EXTINF:-1,Movies24
+http://rb-group-server.com:25461/12341234/12341234/6036
+#EXTINF:-1,Movies4Men
+http://rb-group-server.com:25461/12341234/12341234/6037
+#EXTINF:-1,Sky Cinema Premier HD
+http://rb-group-server.com:25461/12341234/12341234/4852
+#EXTINF:-1,Sky Cinema Select HD
+http://rb-group-server.com:25461/12341234/12341234/4850
+#EXTINF:-1,Sky Cinema Action HD
+http://rb-group-server.com:25461/12341234/12341234/4853
+#EXTINF:-1,Sky Cinema Thriller HD
+http://rb-group-server.com:25461/12341234/12341234/4860
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://rb-group-server.com:25461/12341234/12341234/4858
+#EXTINF:-1,Sky Cinema Family HD
+http://rb-group-server.com:25461/12341234/12341234/4855
+#EXTINF:-1,Sky Cinema Comedy HD
+http://rb-group-server.com:25461/12341234/12341234/4859
+#EXTINF:-1,Sky Cinema Bourne HD
+http://rb-group-server.com:25461/12341234/12341234/4856
+#EXTINF:-1,Sky Cinema Christmas HD
+http://rb-group-server.com:25461/12341234/12341234/6039
+#EXTINF:-1,Sky Cinema Superhero HD
+http://rb-group-server.com:25461/12341234/12341234/6038
+#EXTINF:-1,Sky Cinema Greats
+http://rb-group-server.com:25461/12341234/12341234/4857
+#EXTINF:-1,Sky Cinema Disney HD
+http://rb-group-server.com:25461/12341234/12341234/4861
+#EXTINF:-1,Horror Channel
+http://rb-group-server.com:25461/12341234/12341234/3738
+#EXTINF:-1,Comedy Central
+http://rb-group-server.com:25461/12341234/12341234/3733
+#EXTINF:-1,Sky One
+http://rb-group-server.com:25461/12341234/12341234/4865
+#EXTINF:-1,Sky 2
+http://rb-group-server.com:25461/12341234/12341234/4864
+#EXTINF:-1,Sky Arts
+http://rb-group-server.com:25461/12341234/12341234/4863
+#EXTINF:-1,Sky.Atlantic
+http://rb-group-server.com:25461/12341234/12341234/4851
+#EXTINF:-1,Sky Living
+http://rb-group-server.com:25461/12341234/12341234/4854
+#EXTINF:-1,Capital TV
+http://rb-group-server.com:25461/12341234/12341234/4741
+#EXTINF:-1,Tru TV
+http://rb-group-server.com:25461/12341234/12341234/4840
+#EXTINF:-1,True Crime
+http://rb-group-server.com:25461/12341234/12341234/4844
+#EXTINF:-1,True Movies 1
+http://rb-group-server.com:25461/12341234/12341234/3741
+#EXTINF:-1,True Entertainment
+http://rb-group-server.com:25461/12341234/12341234/3739
+#EXTINF:-1,E!'
+http://rb-group-server.com:25461/12341234/12341234/4867
+#EXTINF:-1,STV Central West
+http://rb-group-server.com:25461/12341234/12341234/4820
+#EXTINF:-1,TG4
+http://rb-group-server.com:25461/12341234/12341234/4821
+#EXTINF:-1,The Vault
+http://rb-group-server.com:25461/12341234/12341234/4878
+#EXTINF:-1,Travel Channel
+http://rb-group-server.com:25461/12341234/12341234/4808
+#EXTINF:-1,Universal Channel
+http://rb-group-server.com:25461/12341234/12341234/4809
+#EXTINF:-1,Animal Planet.
+http://rb-group-server.com:25461/12341234/12341234/4804
+#EXTINF:-1,Discovery History
+http://rb-group-server.com:25461/12341234/12341234/4813
+#EXTINF:-1,Discovery.Investigation
+http://rb-group-server.com:25461/12341234/12341234/4812
+#EXTINF:-1,Discovery Shed
+http://rb-group-server.com:25461/12341234/12341234/4814
+#EXTINF:-1,Discovery Turbo
+http://rb-group-server.com:25461/12341234/12341234/4811
+#EXTINF:-1,National Geo.graphic
+http://rb-group-server.com:25461/12341234/12341234/4806
+#EXTINF:-1,National Geography Wild
+http://rb-group-server.com:25461/12341234/12341234/4807
+#EXTINF:-1,Quest
+http://rb-group-server.com:25461/12341234/12341234/3731
+#EXTINF:-1,Challenge
+http://rb-group-server.com:25461/12341234/12341234/4756
+#EXTINF:-1,Channel 3e
+http://rb-group-server.com:25461/12341234/12341234/4758
+#EXTINF:-1,Channel Aka
+http://rb-group-server.com:25461/12341234/12341234/4755
+#EXTINF:-1,Christmas Gold
+http://rb-group-server.com:25461/12341234/12341234/4848
+#EXTINF:-1,Hum Europe
+http://rb-group-server.com:25461/12341234/12341234/4798
+#EXTINF:-1,MUTV
+http://rb-group-server.com:25461/12341234/12341234/4769
+#EXTINF:-1,My 5
+http://rb-group-server.com:25461/12341234/12341234/4835
+#EXTINF:-1,NDTV 24x7
+http://rb-group-server.com:25461/12341234/12341234/4797
+#EXTINF:-1,NHK
+http://rb-group-server.com:25461/12341234/12341234/4739
+#EXTINF:-1,Pick
+http://rb-group-server.com:25461/12341234/12341234/4866
+#EXTINF:-1,Prime_TV
+http://rb-group-server.com:25461/12341234/12341234/4751
+#EXTINF:-1,Really
+http://rb-group-server.com:25461/12341234/12341234/4748
+#EXTINF:-1,Real Lives
+http://rb-group-server.com:25461/12341234/12341234/4826
+#EXTINF:-1,Rishtey
+http://rb-group-server.com:25461/12341234/12341234/4788
+#EXTINF:-1,RTE TWO HD
+http://rb-group-server.com:25461/12341234/12341234/4823
+#EXTINF:-1,Dmax UK
+http://rb-group-server.com:25461/12341234/12341234/3728
+#EXTINF:-1,Lifetime
+http://rb-group-server.com:25461/12341234/12341234/3737
+#EXTINF:-1,4Seven
+http://rb-group-server.com:25461/12341234/12341234/4837
+#EXTINF:-1,5 Star
+http://rb-group-server.com:25461/12341234/12341234/4831
+#EXTINF:-1,Alibi
+http://rb-group-server.com:25461/12341234/12341234/4839
+#EXTINF:-1,PBS America
+http://rb-group-server.com:25461/12341234/12341234/3730
+#EXTINF:-1,At The Races
+http://rb-group-server.com:25461/12341234/12341234/4763
+#EXTINF:-1,BET
+http://rb-group-server.com:25461/12341234/12341234/4816
+#EXTINF:-1,Bike
+http://rb-group-server.com:25461/12341234/12341234/4757
+#EXTINF:-1,Colors
+http://rb-group-server.com:25461/12341234/12341234/4789
+#EXTINF:-1,Dave ja vu
+http://rb-group-server.com:25461/12341234/12341234/4828
+#EXTINF:-1,S4C
+http://rb-group-server.com:25461/12341234/12341234/4752
+#EXTINF:-1,Scuzz
+http://rb-group-server.com:25461/12341234/12341234/4872
+#EXTINF:-1,MTV Dance
+http://rb-group-server.com:25461/12341234/12341234/4885
+#EXTINF:-1,MTV Hits
+http://rb-group-server.com:25461/12341234/12341234/4882
+#EXTINF:-1,MTV Music
+http://rb-group-server.com:25461/12341234/12341234/4881
+#EXTINF:-1,MTV Rocks
+http://rb-group-server.com:25461/12341234/12341234/4883
+#EXTINF:-1,MTV.Base
+http://rb-group-server.com:25461/12341234/12341234/4737
+#EXTINF:-1,MTV.
+http://rb-group-server.com:25461/12341234/12341234/3729
+#EXTINF:-1,VH1
+http://rb-group-server.com:25461/12341234/12341234/4877
+#EXTINF:-1,Viceland
+http://rb-group-server.com:25461/12341234/12341234/4827
+#EXTINF:-1,CITV
+http://rb-group-server.com:25461/12341234/12341234/3726
+#EXTINF:-1,4Music
+http://rb-group-server.com:25461/12341234/12341234/4874
+#EXTINF:-1,Box Nation
+http://rb-group-server.com:25461/12341234/12341234/4772
+#EXTINF:-1,Premier Sports
+http://rb-group-server.com:25461/12341234/12341234/4761
+#EXTINF:-1,Eurosport 1.
+http://rb-group-server.com:25461/12341234/12341234/4771
+#EXTINF:-1,Eurosport 2.
+http://rb-group-server.com:25461/12341234/12341234/4770
+#EXTINF:-1,Eir Sport1
+http://rb-group-server.com:25461/12341234/12341234/4765
+#EXTINF:-1,Eir Sport 2
+http://rb-group-server.com:25461/12341234/12341234/4740
+#EXTINF:-1,Sky Sports News UK
+http://rb-group-server.com:25461/12341234/12341234/4785
+#EXTINF:-1,Sky Sports Action
+http://rb-group-server.com:25461/12341234/12341234/4783
+#EXTINF:-1,Sky Sports F1
+http://rb-group-server.com:25461/12341234/12341234/4778
+#EXTINF:-1,Sky Sports 5 HD
+http://rb-group-server.com:25461/12341234/12341234/4779
+#EXTINF:-1,Sky Sports Main Event
+http://rb-group-server.com:25461/12341234/12341234/4784
+#EXTINF:-1,Sky Sports MIX
+http://rb-group-server.com:25461/12341234/12341234/4782
+#EXTINF:-1,Sky Sports Cricket
+http://rb-group-server.com:25461/12341234/12341234/4781
+#EXTINF:-1,Bt Sport Extra1
+http://rb-group-server.com:25461/12341234/12341234/4746
+#EXTINF:-1,Sky Sports Golf
+http://rb-group-server.com:25461/12341234/12341234/4780
+#EXTINF:-1,BT Sports 1
+http://rb-group-server.com:25461/12341234/12341234/4777
+#EXTINF:-1,BT Sports 2
+http://rb-group-server.com:25461/12341234/12341234/4776
+#EXTINF:-1,BT Sports 3
+http://rb-group-server.com:25461/12341234/12341234/4775
+#EXTINF:-1,BT Sport Extra_2
+http://rb-group-server.com:25461/12341234/12341234/4745
+#EXTINF:-1,BT Sport Extra 3
+http://rb-group-server.com:25461/12341234/12341234/4744
+#EXTINF:-1,BT Sport Extra 4
+http://rb-group-server.com:25461/12341234/12341234/4743
+#EXTINF:-1,BT Sport ESPN
+http://rb-group-server.com:25461/12341234/12341234/4742
+#EXTINF:-1,BT Sports ESPN
+http://rb-group-server.com:25461/12341234/12341234/4774
+#EXTINF:-1,Racing
+http://rb-group-server.com:25461/12341234/12341234/4764
+#EXTINF:-1,Chelsea TV
+http://rb-group-server.com:25461/12341234/12341234/4768
+#EXTINF:-1,Eden
+http://rb-group-server.com:25461/12341234/12341234/4833
+#EXTINF:-1,Horse and Country
+http://rb-group-server.com:25461/12341234/12341234/4760
+#EXTINF:-1,Motorsport TV
+http://rb-group-server.com:25461/12341234/12341234/4762
+
+#EXTINF:-1,TSN 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/52.m3u8
+#EXTINF:-1,TSN 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/51.m3u8
+#EXTINF:-1,TSN 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/50.m3u8
+#EXTINF:-1,TSN 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/49.m3u8
+#EXTINF:-1,TSN 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/48.m3u8
+#EXTINF:-1,USA FOX Sport 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/222.m3u8
+#EXTINF:-1,USA FOX Sport 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/221.m3u8
+#EXTINF:-1,nbc sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/220.m3u8
+#EXTINF:-1,BRAVO USA
+http://vmdirect.co.uk:5001/live/Errol/Errol/3331.m3u8
+#EXTINF:-1,National Geographic USA
+http://vmdirect.co.uk:5001/live/Errol/Errol/3333.m3u8
+#EXTINF:-1,USA: Fox News US
+http://vmdirect.co.uk:5001/live/Errol/Errol/6805.m3u8
+
+#EXTINF:-1,Us- A&E  US
+http://m-iptv.net:6204/marwan/123/10441
+#EXTINF:-1,Us- ABC US
+http://m-iptv.net:6204/marwan/123/10440
+#EXTINF:-1,Us- Animal Planet HD
+http://m-iptv.net:6204/marwan/123/10439
+#EXTINF:-1,Us- Bein Sports
+http://m-iptv.net:6204/marwan/123/10646
+#EXTINF:-1,Us- BET HD
+http://m-iptv.net:6204/marwan/123/10645
+#EXTINF:-1,Us- Bloomberg US
+http://m-iptv.net:6204/marwan/123/10436
+#EXTINF:-1,Us- Bravo HD
+http://m-iptv.net:6204/marwan/123/10435
+#EXTINF:-1,Us- Cartoon Network US
+http://m-iptv.net:6204/marwan/123/10434
+#EXTINF:-1,Us- CBS Sport HD
+http://m-iptv.net:6204/marwan/123/10433
+#EXTINF:-1,Us- CBS US
+http://m-iptv.net:6204/marwan/123/10432
+#EXTINF:-1,Us- CINEMAX HD
+http://m-iptv.net:6204/marwan/123/10431
+#EXTINF:-1,Us- CNBC US
+http://m-iptv.net:6204/marwan/123/10429
+#EXTINF:-1,Us- CNN US HD
+http://m-iptv.net:6204/marwan/123/10428
+#EXTINF:-1,Us- Discovery Channel US HD
+http://m-iptv.net:6204/marwan/123/10424
+#EXTINF:-1,Us- DISCOVERY FAMILY
+http://m-iptv.net:6204/marwan/123/10423
+#EXTINF:-1,Us- Discovery Investigation
+http://m-iptv.net:6204/marwan/123/10422
+#EXTINF:-1,Us- Discovery Science US HD
+http://m-iptv.net:6204/marwan/123/10421
+#EXTINF:-1,Us- Disney Channel US
+http://m-iptv.net:6204/marwan/123/10420
+#EXTINF:-1,Us- Disney Junior US
+http://m-iptv.net:6204/marwan/123/10419
+#EXTINF:-1,Us- Fox sport 1 HD
+http://m-iptv.net:6204/marwan/123/10416
+#EXTINF:-1,Us- Fox sport 2 HD
+http://m-iptv.net:6204/marwan/123/10415
+#EXTINF:-1,Us- FX HD
+http://m-iptv.net:6204/marwan/123/10414
+#EXTINF:-1,Us- GSN HD
+http://m-iptv.net:6204/marwan/123/10412
+#EXTINF:-1,Us- HBO Comedy HD
+http://m-iptv.net:6204/marwan/123/10411
+#EXTINF:-1,Us- HBO Signature
+http://m-iptv.net:6204/marwan/123/10410
+#EXTINF:-1,Us- HBO US HD
+http://m-iptv.net:6204/marwan/123/10409
+#EXTINF:-1,Us- HBO ZONE HD
+http://m-iptv.net:6204/marwan/123/10408
+#EXTINF:-1,Us- HGTV HD
+http://m-iptv.net:6204/marwan/123/10407
+#EXTINF:-1,Us- History
+http://m-iptv.net:6204/marwan/123/10406
+#EXTINF:-1,Us- History HD US
+http://m-iptv.net:6204/marwan/123/10405
+#EXTINF:-1,Us- Life Time HD
+http://m-iptv.net:6204/marwan/123/10404
+#EXTINF:-1,Us- MTV HD US
+http://m-iptv.net:6204/marwan/123/10403
+#EXTINF:-1,Us- Nat Geo Wild HD US
+http://m-iptv.net:6204/marwan/123/10402
+#EXTINF:-1,Us- NatGeo HD USA
+http://m-iptv.net:6204/marwan/123/10401
+#EXTINF:-1,Us- NBA HD
+http://m-iptv.net:6204/marwan/123/10400
+#EXTINF:-1,Us- NBC EAST HD
+http://m-iptv.net:6204/marwan/123/10399
+#EXTINF:-1,Us- NBCSN HD
+http://m-iptv.net:6204/marwan/123/10398
+#EXTINF:-1,Us- NEWS 12
+http://m-iptv.net:6204/marwan/123/10643
+#EXTINF:-1,Us- Nick Junior US
+http://m-iptv.net:6204/marwan/123/10397
+#EXTINF:-1,Us- Nick Toons US
+http://m-iptv.net:6204/marwan/123/10396
+#EXTINF:-1,Us- OWN HD
+http://m-iptv.net:6204/marwan/123/10395
+#EXTINF:-1,Us- PAC-12 Arizona HD
+http://m-iptv.net:6204/marwan/123/10642
+#EXTINF:-1,Us- PAC-12 Bay Area HD
+http://m-iptv.net:6204/marwan/123/10641
+#EXTINF:-1,Us- PAC-12 Los Angeles HD
+http://m-iptv.net:6204/marwan/123/10640
+#EXTINF:-1,Us- PAC-12 Mountain HD-
+http://m-iptv.net:6204/marwan/123/10639
+#EXTINF:-1,Us- PAC-12 Oregon HD
+http://m-iptv.net:6204/marwan/123/10638
+#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
+http://m-iptv.net:6204/marwan/123/10393
+#EXTINF:-1,Us- SLICE HD
+http://m-iptv.net:6204/marwan/123/10392
+#EXTINF:-1,Us- Starz HD US
+http://m-iptv.net:6204/marwan/123/10390
+#EXTINF:-1,Us- STARZ KIDS & Family HD
+http://m-iptv.net:6204/marwan/123/10389
+#EXTINF:-1,Us- Syfy HD
+http://m-iptv.net:6204/marwan/123/10388
+#EXTINF:-1,Us- SyFy HD USA
+http://m-iptv.net:6204/marwan/123/10387
+#EXTINF:-1,Us- TBS USA
+http://m-iptv.net:6204/marwan/123/10386
+#EXTINF:-1,Us- TLC HD
+http://m-iptv.net:6204/marwan/123/10385
+#EXTINF:-1,Us- TNT US
+http://m-iptv.net:6204/marwan/123/10384
+#EXTINF:-1,Us- TRU TV HD
+http://m-iptv.net:6204/marwan/123/10383
+#EXTINF:-1,Us- TSN 1 HD
+http://m-iptv.net:6204/marwan/123/10636
+#EXTINF:-1,Us- TSN 2 HD
+http://m-iptv.net:6204/marwan/123/10635
+#EXTINF:-1,Us- TSN 3 HD
+http://m-iptv.net:6204/marwan/123/10634
+#EXTINF:-1,Us- TSN 4 HD
+http://m-iptv.net:6204/marwan/123/10633
+#EXTINF:-1,Us- TSN 5 HD
+http://m-iptv.net:6204/marwan/123/10632
+#EXTINF:-1,Us- TV Land HD
+http://m-iptv.net:6204/marwan/123/10382
+#EXTINF:-1,Us- VH1 HD US
+http://m-iptv.net:6204/marwan/123/10380
+#EXTINF:-1,Us- Viceland TV
+http://m-iptv.net:6204/marwan/123/10379
+#EXTINF:-1,Us- WE HD
+http://m-iptv.net:6204/marwan/123/10378
+#EXTINF:-1,Us- Weather channel
+http://m-iptv.net:6204/marwan/123/10377
+#EXTINF:-1,Us- WWE HD
+http://m-iptv.net:6204/marwan/123/10376
